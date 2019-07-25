@@ -185,3 +185,9 @@ $ git commit
 로그를 확인 해보자
 $ git log --graph --decorate --oneline
 7-2
+
+
+## 3. 협업 시작
+
+test.py
+
